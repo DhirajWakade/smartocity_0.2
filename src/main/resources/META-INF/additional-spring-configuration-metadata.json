@@ -1,0 +1,17 @@
+{"properties": [
+  {
+    "name": "custom.productImgPath",
+    "type": "java.lang.String",
+    "description": "A description for 'custom.productImgPath'"
+  },
+  {
+    "name": "upload.product.product_img",
+    "type": "java.lang.String",
+    "description": "A description for 'upload.product.product_img'"
+  },
+  {
+    "name": "upload.product.product_img",
+    "type": "java.lang.String",
+    "description": "A description for 'upload.product.product_img'"
+  }
+]}
